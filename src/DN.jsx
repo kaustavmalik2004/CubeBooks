@@ -89,7 +89,7 @@ names:["class 11 hornbil CBSE","class 11 snap shots CBSE","class 11 woven words 
             names:[]
           },
           physics:{
-              links:[""],
+              links:[],
               names:[]
             },
             comp:{
