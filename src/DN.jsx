@@ -18,8 +18,16 @@ names:["class 11 hornbil CBSE","class 11 snap shots CBSE","class 11 woven words 
         },
         maths:{
           links:["https://drive.google.com/file/d/11DZyXjeylgLjcb4HcLLSoYgk5AnQ04o7/view?usp=drivesdk",
-                 "https://drive.google.com/file/d/11AMIuWMCojFovg-PLvjg54eKCYwgxmx1/view?usp=drivesdk"],
-          names:["ncert maths class 12 part 1","ncert maths class 11"]
+                 "https://drive.google.com/file/d/11AMIuWMCojFovg-PLvjg54eKCYwgxmx1/view?usp=drivesdk",
+                "https://drive.google.com/file/d/1xWu4P7patieR2fK3ptnxXvRM6JDzY02g/view?usp=sharing",
+                "https://drive.google.com/file/d/1ytH-U6_k8grlqSpbQGOjg_wYV05CgWYY/view?usp=sharing",
+                "https://drive.google.com/file/d/1WX9hz4-3vEZ60loW05mZ15VnmiySjHAN/view?usp=sharing",
+                "https://drive.google.com/file/d/1PVzsfhSvix-uPSyVcyGFTnnjweEmVBoV/view?usp=sharing"],
+          names:["ncert maths class 12 part 1","ncert maths class 11",
+                 "SK Goyal Arihant Objective Mathematics Mains",
+                 "RD Sharma for Jee Mains and Advanced part 1",
+                 "RD Sharma for jee mains and advanced part 2",
+                "Complex no. by Utkarsh Classes"]
         },
         physics:{
             links:["https://drive.google.com/file/d/1-BWTpJViTpGXHQA0ZUjydJvHtrrsYrZR/view?usp=drivesdk",
