@@ -8,33 +8,50 @@ class DN extends React.Component{
   res={ books:{
         engLit:{
             links:["https://drive.google.com/file/d/1uYn1gGa4OHLLZ8cHu_hduBs6kYPnOG73/view?usp=drivesdk",
-           "https://drive.google.com/file/d/1wjtgTbwlaayEQsESnn-raPdVyYTfVGtn/view?usp=drivesdk",
-        "https://drive.google.com/file/d/1HdxGfPakT1t6SwqQg3dTe803xl8w3CgH/view?usp=drivesdk",
-    "https://drive.google.com/file/d/1M0NA4YvTS2eYUtNxOO0MATNrT3wWjqB7/view?usp=drivesdk",
-    "https://drive.google.com/file/d/1p-ENSNQHezmLeuACytRW9e7pelc1-pJM/view?usp=drivesdk",
-    "https://drive.google.com/file/d/1y1Ql0xOSty9RN9C7HFW8cHXACEJ_kPr6/view?usp=drivesdk"
-],
-names:["class 11 hornbil CBSE","class 11 snap shots CBSE","class 11 woven words CBSE","class 12 flamingo CBSE","class 12 kaleidoscope CBSE","class 12 vistas CBSE"]
+                   "https://drive.google.com/file/d/1wjtgTbwlaayEQsESnn-raPdVyYTfVGtn/view?usp=drivesdk",
+                   "https://drive.google.com/file/d/1HdxGfPakT1t6SwqQg3dTe803xl8w3CgH/view?usp=drivesdk",
+                   "https://drive.google.com/file/d/1M0NA4YvTS2eYUtNxOO0MATNrT3wWjqB7/view?usp=drivesdk",
+                   "https://drive.google.com/file/d/1p-ENSNQHezmLeuACytRW9e7pelc1-pJM/view?usp=drivesdk",
+                   "https://drive.google.com/file/d/1y1Ql0xOSty9RN9C7HFW8cHXACEJ_kPr6/view?usp=drivesdk"],
+            names:["Hornbil Class 11 CBSE",
+                   "Snap Shots Class 11 CBSE",
+                   "Woven words Class 11 CBSE",
+                   "Flamingo Class 11 CBSE",
+                   "Vistas Class 11 CBSE"]
         },
         maths:{
           links:["https://drive.google.com/file/d/11DZyXjeylgLjcb4HcLLSoYgk5AnQ04o7/view?usp=drivesdk",
-                 "https://drive.google.com/file/d/11AMIuWMCojFovg-PLvjg54eKCYwgxmx1/view?usp=drivesdk"],
-          names:["ncert maths class 12 part 1","ncert maths class 11"]
+                 "https://drive.google.com/file/d/13epQ6XzfYrnBfa-i18qXc-P7nZ0--pBa/view?usp=sharing",
+                 "https://drive.google.com/file/d/11AMIuWMCojFovg-PLvjg54eKCYwgxmx1/view?usp=drivesdk",
+                 "https://drive.google.com/file/d/1xWu4P7patieR2fK3ptnxXvRM6JDzY02g/view?usp=sharing",
+                 "https://drive.google.com/file/d/1ytH-U6_k8grlqSpbQGOjg_wYV05CgWYY/view?usp=sharing",
+                 "https://drive.google.com/file/d/1WX9hz4-3vEZ60loW05mZ15VnmiySjHAN/view?usp=sharing"],
+          names:["NCERT Maths Class 12 Part 1",
+                 "NCERT Maths Class 12 Part 2",
+                 "NCERT Maths Class 11",
+                 "SK Goyal Arihant Objective Mathematics Mains",
+                 "RD Sharma for JEE Mains and Advanced Part 1",
+                 "RD Sharma for JEE mains and Advanced Part 2 "]
         },
         physics:{
             links:["https://drive.google.com/file/d/1-BWTpJViTpGXHQA0ZUjydJvHtrrsYrZR/view?usp=drivesdk",
-              "https://drive.google.com/file/d/1-3aKmtKJxhbah6nszyqiLifofkzMgUo_/view?usp=drivesdk",
-            "https://drive.google.com/file/d/1-99KMsuc5WF0VUhpyODXaSFM0BNxMCnm/view?usp=drivesdk",
-          "https://drive.google.com/file/d/1-HCMKOziyFHpQiUN_ZlBNOkr3ta01lw2/view?usp=drivesdk",
-        "https://drive.google.com/file/d/1-9Lds7IIIMYLvpJievlrFSPkn-dlm4Md/view?usp=drivesdk",
-      "https://drive.google.com/file/d/1u3TBOjuZ63OoVvC79OGBTst5nQr2LyXi/view?usp=drivesdk",
-    "https://drive.google.com/file/d/1aaPRsgProCg4GefaHX1V03A3ZNEhJw1w/view?usp=drivesdk",
-  "https://drive.google.com/file/d/188bmXdTyYAVKQBxL_BCeEKlP03OkKz3L/view?usp=drivesdk",
-"https://drive.google.com/file/d/1dYxHyLjatogTOtvGzv8kncroGqzyTf3y/view?usp=drivesdk"],
-            names:["dc pandey electricity and magnetism","dc pandey mechanics volume 1",
-          "dc pandey mechanics volume 2","dc pandey optics and modern physics volume 5",
-        "dc pandey waves and thermodynamics volume 3","hc verma part 1",
-      "hc verma part 2","hc verma part 1 solutions","hc verma part 2 solutions"]
+                   "https://drive.google.com/file/d/1-3aKmtKJxhbah6nszyqiLifofkzMgUo_/view?usp=drivesdk",
+                   "https://drive.google.com/file/d/1-99KMsuc5WF0VUhpyODXaSFM0BNxMCnm/view?usp=drivesdk",
+                   "https://drive.google.com/file/d/1-HCMKOziyFHpQiUN_ZlBNOkr3ta01lw2/view?usp=drivesdk",
+                   "https://drive.google.com/file/d/1-9Lds7IIIMYLvpJievlrFSPkn-dlm4Md/view?usp=drivesdk",
+                   "https://drive.google.com/file/d/1u3TBOjuZ63OoVvC79OGBTst5nQr2LyXi/view?usp=drivesdk",
+                   "https://drive.google.com/file/d/188bmXdTyYAVKQBxL_BCeEKlP03OkKz3L/view?usp=drivesdk",
+                   "https://drive.google.com/file/d/1aaPRsgProCg4GefaHX1V03A3ZNEhJw1w/view?usp=drivesdk",
+                   "https://drive.google.com/file/d/1dYxHyLjatogTOtvGzv8kncroGqzyTf3y/view?usp=drivesdk"],
+            names:["DC Pandey Electricity and Magnetism",
+                   "DC Pandey Mechanics Volume 1",
+                   "DC Pandey Mechanics Volume 2",
+                   "DC Pandey Optics and Modern Physics Volume 5",
+                   "DC Pandey Waves and Thermodynamics Volume 3",
+                   "HC Verma Part 1",
+                   "HC Verma Part 1 Solutions",
+                   "HC Verma Part 2",
+                   "HC Verma Part 2 Solutions"]
           },
           comp:{
             links:[],
@@ -45,8 +62,18 @@ names:["class 11 hornbil CBSE","class 11 snap shots CBSE","class 11 woven words 
             names:[]
           },
           chem:{
-            links:[],
-            names:[]
+            links:["https://drive.google.com/file/d/1hjIc7vCPiyIDoDxZEfqWnR9NFGojLb7H/view?usp=sharing",
+                   "https://drive.google.com/file/d/1Mmf3e--VCowfLaRlFF2ft9Xqq_fnM4WK/view?usp=sharing",
+                   "https://drive.google.com/file/d/1Bm7L6qCLeaoLO1ejfrqhT01YKGviUjmm/view?usp=sharing",
+                   "https://drive.google.com/file/d/1QUtdcWGphoh9JBiqvinaoKX3Y7coEsdY/view?usp=sharing",
+                   "https://drive.google.com/drive/folders/1BRXJq02_0jFmnCh6Hi9ME8fqWa-lXoM1?usp=sharing",
+                   "https://drive.google.com/drive/folders/1ZJqO0N_MXBqzZNMONc9He3eIwrq0OZxp?usp=sharing"],
+            names:["Organic Chemistry - M.S.Chouhan",
+                   "Ms Chauhan Organic Chemistry Part 1 ",
+                   "Ms Chauhan Organic Chemistry Part 2 ",
+                   "Ms Chauhan Organic Chemistry Part 3 ",
+                   "NCERT Chemistry Vol 1",
+                   "NCERT Chemistry Vol 2"]
           },
           engLang:{
             links:[],
