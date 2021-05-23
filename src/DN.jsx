@@ -65,8 +65,10 @@ class DN extends React.Component{
                    "Solution to I.E. Irodov"]
           },
           comp:{
-            links:["https://drive.google.com/file/d/13zka_gumPfuQlVeIGwv2n_zQ2zbptEiR/view?usp=sharing"],
-            names:["Preeti Arora Python"]
+            links:["https://drive.google.com/file/d/13zka_gumPfuQlVeIGwv2n_zQ2zbptEiR/view?usp=sharing",
+                   "https://drive.google.com/file/d/14ypYoBrhpzXrKgs-KR-oWtcprr4GUgDx/view?usp=sharing"],
+            names:["Preeti Arora Python",
+                   "Computer Science Python Class 12-Sumita Arora"]
           },
           hindi:{
             links:[],
@@ -80,7 +82,9 @@ class DN extends React.Component{
                    "https://drive.google.com/drive/folders/1BRXJq02_0jFmnCh6Hi9ME8fqWa-lXoM1?usp=sharing",
                    "https://drive.google.com/drive/folders/1ZJqO0N_MXBqzZNMONc9He3eIwrq0OZxp?usp=sharing",
                    "https://drive.google.com/file/d/10ZmFtPKZgjM-WzK7wBZYEzNyxwl2AV5z/view?usp=sharing",
-                   "https://drive.google.com/file/d/11HiNpNK37mv7jAPhbsp6yl3m3qY7WD_3/view?usp=sharing"],
+                   "https://drive.google.com/file/d/11HiNpNK37mv7jAPhbsp6yl3m3qY7WD_3/view?usp=sharing",
+                   "https://drive.google.com/file/d/11zpg-KGppcZ4NbszFFnbm7TUXV2Y7sLg/view?usp=sharing",
+                   "https://drive.google.com/file/d/1-hR53pVZOflO15YfqEqXllY0wMiDXkEa/view?usp=sharing"],
             names:["Organic Chemistry - M.S.Chouhan",
                    "Ms Chauhan Organic Chemistry Part 1 ",
                    "Ms Chauhan Organic Chemistry Part 2 ",
@@ -88,11 +92,15 @@ class DN extends React.Component{
                    "NCERT Chemistry Class 12 Vol 1",
                    "NCERT Chemistry Class 12 Vol 2",
                    "JD Lee Adapted By Sudarshan Guha",
-                   "Master Resource Book for Chemistry"]
+                   "Master Resource Book for Chemistry",
+                   "Physical Chemistry-P.Bahadur",
+                   "Companion Chemistry XI"]
           },
           engLang:{
-            links:[],
-            names:[]
+            links:["https://drive.google.com/file/d/12E0s30FJRFL1cjHp6UAlRBZY1piZxUcV/view?usp=sharing",
+                   "https://drive.google.com/file/d/12DNHSPUNdmS2TFrI9AAMair3v5n0STpl/view?usp=sharing"],
+            names:["Master the NCERT for NEET Vol-1",
+                   "Master the NCERT for NEET Vol-2"]
           }
     },
     notes:{
@@ -100,25 +108,25 @@ class DN extends React.Component{
             links:["https://drive.google.com/file/d/1PVzsfhSvix-uPSyVcyGFTnnjweEmVBoV/view?usp=sharing",
                    "https://drive.google.com/file/d/11B7P-7NA7XI46oxbl2dSTKkVoJ_RE1q3/view?usp=sharing",
                    "https://drive.google.com/file/d/11A07EEaRwONMumJhVCEoCYrkecJs98to/view?usp=sharing",
-                  "https://drive.google.com/file/d/11FTYOCK4ftrijl9gvJpg_GkaVDgTeG0b/view?usp=sharing",
-                  "https://drive.google.com/file/d/112Mm5tyzJ88JLIiKkz0qv_mM05_7QdbO/view?usp=sharing",
-                  "https://drive.google.com/file/d/10x_m_qTKs5EOKEXU0pECiHpdQ1JKEmRl/view?usp=sharing",
-                  "https://drive.google.com/file/d/11JnAOSf5CK_XfRkB8GA452sJfmpMwvUY/view?usp=sharing"],
+                   "https://drive.google.com/file/d/11FTYOCK4ftrijl9gvJpg_GkaVDgTeG0b/view?usp=sharing",
+                   "https://drive.google.com/file/d/112Mm5tyzJ88JLIiKkz0qv_mM05_7QdbO/view?usp=sharing",
+                   "https://drive.google.com/file/d/10x_m_qTKs5EOKEXU0pECiHpdQ1JKEmRl/view?usp=sharing",
+                   "https://drive.google.com/file/d/11JnAOSf5CK_XfRkB8GA452sJfmpMwvUY/view?usp=sharing"],
             names:["Complex Number",
-                  "Algebra all formulas",
-                  "Sequence and Series all formulas",
-                  "Sets all formulas",
-                  "Straight line all Formulas",
-                  "Triangle all formulas iit jee",
-                  "Vectors all formulas"]
+                   "Algebra all Formulas",
+                   "Sequence & Series all Formulas",
+                   "Sets all Formulas",
+                   "Straight line all Formulas",
+                   "Triangle all Formulas IIT JEE",
+                   "Vectors all Formulas"]
           },
           physics:{
               links:["https://drive.google.com/file/d/1rzq_b604NJRr7hCNu2y5v53LpJeGtk7A/view?usp=sharing"],
               names:["ALL CHAPTER NOTES"]
             },
             comp:{
-              links:[],
-              names:[]
+              links:["https://drive.google.com/file/d/157WomfUFJh2EUAWuWkYC3fAnCp3InXNV/view?usp=sharing"],
+              names:["Computer Science Revisions Notes Class 12"]
             },
             hindi:{
               links:[],
@@ -141,12 +149,16 @@ class DN extends React.Component{
                      "Important Conversion in Organic Chemistry"]
             },
             engLang:{
-              links:[],
-              names:[]
+              links:["https://drive.google.com/file/d/12zc1zt2AqI1CMSM4c2z-9jpoXwBhaX5x/view?usp=sharing",
+                     "https://drive.google.com/file/d/12zIAz5fpw0ZvMvcMfT8iEvfmlBNkxtEW/view?usp=sharing"],
+              names:["Animal Kingdom Handwritten Notes",
+                     "Human Reproduction Short Notes",]
             },
             engLit:{
-                links:[],
-                names:[]
+                links:["https://drive.google.com/file/d/159B2LMe2SB0HoPI_WSHipt4Kij1d3dWl/view?usp=sharing",
+                       "https://drive.google.com/file/d/15LSFwTwvCBd74USOIHzqfhh9QUJ-1qs_/view?usp=sharing"],
+                names:["English Core Important Questions CBSE",
+                       "English Handwritten Notes Class 12 CBSE"]
               }
     },
     papers:{
@@ -169,8 +181,20 @@ class DN extends React.Component{
                     "Scormore 21 Sample Paper Physics"]
             },
             comp:{
-              links:[],
-              names:[]
+              links:["https://drive.google.com/file/d/166Smpkqy9GrMBpBIGeJG9BVA7sNUm7VE/view?usp=sharing",
+                     "https://drive.google.com/file/d/15ogrBGiG6azT4MzD7Yu0TvHoQCVI2dZK/view?usp=sharing",
+                     "https://drive.google.com/file/d/159irGMkMV_Fs4Y-H3WsKAJsuNzMwfqWS/view?usp=sharing",
+                     "https://drive.google.com/file/d/15tuCpUoJJA-4xra4QC5ynwIjQWjYpr3Y/view?usp=sharing",
+                     "https://drive.google.com/file/d/16BoqIlp3urxCG6-bD3XeBh1dqwyf26lu/view?usp=sharing",
+                     "https://drive.google.com/file/d/156Xgev2tUGmT5ZDNY0lW-J2g4CmKjfS4/view?usp=sharing",
+                     "https://drive.google.com/file/d/14veyq2lq0A3ti4JJRhqIeVskPEhtkwOo/view?usp=sharing"],
+              names:["5 marks question class 12",
+                    "Class 11 Sample Paper",
+                    "Class 12 Computer Questions based on Ch-1,2,3",
+                    "Class 12 Sample Paper",
+                    "Computer Paper Class 12",
+                    "Oswal Sample Question Paper CS with Chapterwise Key",
+                    "Question Paper"]
             },
             hindi:{
               links:[],
@@ -178,17 +202,27 @@ class DN extends React.Component{
             },
             chem:{
               links:["https://drive.google.com/file/d/10J-JpRxOsFaNh7fjigE15EWhCFElT-ws/view?usp=sharing",
-                     "https://drive.google.com/file/d/10kEccIOc0IWByv9KjOVlqW2TKt4zxcZn/view?usp=sharing"],
+                     "https://drive.google.com/file/d/10kEccIOc0IWByv9KjOVlqW2TKt4zxcZn/view?usp=sharing",
+                     "https://drive.google.com/file/d/142G4VIpGwzGBb0cykfVeoyGce6V7u8JW/view?usp=sharing",
+                     "https://drive.google.com/file/d/1EkhzM82awXiR06aq4pCjqmZTX_1Isjzl/view?usp=sharing",
+                     "https://drive.google.com/file/d/1Zl0dO6vxQkTPKwPAwb6cEGrKPufTVt5-/view?usp=sharing",
+                     "https://drive.google.com/file/d/1TQVjeXZcT6GtIsBfesM0CXxCLRXEZN3r/view?usp=sharing"],
               names:["Chapterwise Question Bank With Solutions Class 11 & 12",
-                     "Most Difficult Previous Year Question Papers"]
+                     "Most Difficult Previous Year Question Papers",
+                     "41 Years Jee Advanced Chapterwise Questions and Solution",
+                     "750 Blockbuster Problems in Chemistry-Disha Experts",
+                     "DISHA CHEM OBJECTIVE NCERT XTRACT",
+                     "ScoreMore 21 Sample Papers Chemistry-MTG Editorial Board"]
             },
             engLang:{
-              links:[],
-              names:[]
+              links:["https://drive.google.com/file/d/16YPQcOPCAfXmmucEPuZJ7vkGQYuDFfF7/view?usp=sharing",
+                     "https://drive.google.com/file/d/15ZkYjgdOZy7Yi7nJuns2NlI2qaGQwivj/view?usp=sharing"],
+              names:["Biology Chapterwise Topicwise Solved Papers",
+                     "Scoremore 21 Sample Paper"]
             },
             engLit:{
-                links:[],
-                names:[]
+                links:["https://drive.google.com/file/d/14igKEAOEbnOx2PYG9_LB-dAA4RUQVptv/view?usp=sharing"],
+                names:["Scoremore 21 Sample Paper for CBSE Class 12"]
               }
     }
   }
