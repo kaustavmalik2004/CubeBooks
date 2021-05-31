@@ -68,7 +68,7 @@ class DN extends React.Component{
                  "Cengage vector and 3d geometry DPP solution",
                  "Playing With Graphs by Amit M Aggarwal",
                  "Handbook of Maths by Arihant",
-                 "Ncert Maths Exemplar Problems"]
+                 "Ncert Exemplar Maths Class 11"]
         },
         physics:{
             links:["https://drive.google.com/file/d/1-3aKmtKJxhbah6nszyqiLifofkzMgUo_/view?usp=sharing",
